@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@jaihind70239415" target="blank"><img src="https://img.shields.io/twitter/follow/@jaihind70239415?logo=twitter&style=for-the-badge" alt="@jaihind70239415" /></a> </p>
 
-- 🔭 I’m currently working for **Arkansas State University**
+- 🔭 I’m currently working for **Clark Technology**
 
 - 🌱 I’m currently learning **AL/ML, FrontEnd tools**
 
